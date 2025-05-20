@@ -1,6 +1,8 @@
-### Salut, moi c’est Croisix 👋
 
+### croisix
 🎓 Étudiant IUT de Lens
+
+
 
 🔧 Compétences : 
 
