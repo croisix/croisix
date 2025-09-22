@@ -1,6 +1,6 @@
 
 ### croisix
-Étudiant en 2eme année à l'Institut universitaire de technologie Informatique de Lens, France
+Étudiant en 2eme année d'informatique à l'Institut universitaire de technologie de Lens, France
 
 
 
@@ -18,5 +18,6 @@ Compétences :
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-En solo: 
+En solo:
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
