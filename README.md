@@ -7,9 +7,11 @@
 **LinkedIn :** [enzo-fantasia](https://www.linkedin.com/in/enzo-fantasia-145093364/)
 
 
+
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,ktor,python,js,ts,angular,php,flask,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,ktor,python,js,ts,angular,php,flask,figma" />
   </a>
 </p>
 
