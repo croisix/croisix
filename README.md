@@ -6,8 +6,14 @@
 
 **LinkedIn :** [enzo-fantasia](https://www.linkedin.com/in/enzo-fantasia-145093364/)
 
+---
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,php,html,css,flask,kotlin)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,ktor,python,js,ts,angular,php,laravel,flask,figma" />
+  </a>
+</p>
 
 
 --- 
